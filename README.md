@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **TalantDeveloper/TalantDeveloper** is a ✨ _Developer_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have done many projects. Examples of them are ritualniuslugi.uz, yotoqxona.tsdi.uz, ouf.tsdi.uz, highschool.tsdi.uz.
--->
+
