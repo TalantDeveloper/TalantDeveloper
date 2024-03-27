@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I have done many projects. Examples of them are ritualniuslugi.uz, yotoqxona.tsdi.uz, ouf.tsdi.uz, highschool.tsdi.uz.
 <div id="badges">
+  <a href="https://t.me/Talantbek001">
+    <img src="https://img.shields.io/badge/Telegram-success?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,4 +26,6 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+  
 </div>
