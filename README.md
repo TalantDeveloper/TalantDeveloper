@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Huggingface, Transformers models, Spacy and Neural Network.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Backend Programming and AI.
-- 💬 Ask me about Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Telegram Badge" width='16' /> , Django, PostgreSQL, DRF, CRUD, OOP, SOLID, Tkinter, Basic Frontend, Backend, Object-Detection, NLP, Hugging-face and some Python libraries.
+- 💬 Ask me about Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Telegram Badge" width='10' /> , Django, PostgreSQL, DRF, CRUD, OOP, SOLID, Tkinter, Basic Frontend, Backend, Object-Detection, NLP, Hugging-face and some Python libraries.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have done many projects. Examples of them are [ritualniuslugi.uz](ritualniuslugi.uz), [yotoqxona.tsdi.uz](yotoqxona.tsdi.uz), [ouf.tsdi.uz](ouf.tsdi.uz), [highschool.tsdi.uz](highschool.tsdi.uz).
+- ⚡ Fun fact: I have done many projects. Examples of them are ritualniuslugi.uz, yotoqxona.tsdi.uz, ouf.tsdi.uz, highschool.tsdi.uz.
 <div id="badges">
   <a href="https://t.me/Talantbek001">
     <img src="https://img.shields.io/badge/Telegram-success?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
