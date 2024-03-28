@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Telegram Badge" width='10' /> , Django, PostgreSQL, DRF, CRUD, OOP, SOLID, Tkinter, Basic Frontend, Backend, Object-Detection, NLP, Hugging-face and some Python libraries.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I have done many projects. Examples of them are ritualniuslugi.uz, yotoqxona.tsdi.uz, ouf.tsdi.uz, highschool.tsdi.uz.
+- ⚡ Fun fact: I have done many projects. Examples of them are <a href="https://ritualniuslugi.uz">ritualniuslugi.uz</a>, <a href="https://yotoqxona.tsdi.uz">yotoqxona.tsdi.uz</a>, <a href="https://ouf.tsdi.uz">ouf.tsdi.uz</a>, <a href="https://highschool.tsdi.uz">highschool.tsdi.uz</a>.
 <div id="badges">
   <a href="https://t.me/Talantbek001">
     <img src="https://img.shields.io/badge/Telegram-success?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
