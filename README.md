@@ -1,4 +1,3 @@
-**TalantDeveloper/TalantDeveloper** is a ✨ _Developer_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Everyone;My+name+is+Botirjon+Ergashov.;I+am+a+Software+Developer%2C;and+my+interests+%5BPython%2C+Django%2C+AI%5D.)](https://git.io/typing-svg)
 
