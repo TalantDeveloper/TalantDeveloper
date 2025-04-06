@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Tashkent State Dental Institut
+- 🔭 I’m currently working on RENAISSANCE UNIVERSITY OF EDUCATION
 - 🌱 I’m currently learning Huggingface, Transformers models, Spacy and Neural Network.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Backend Programming and AI.
